@@ -1,6 +1,6 @@
-module.exports = () => (global.console.color = consolePrettier);
+module.exports = () => (global.console.color = consoleColor);
 
-function consolePrettier(
+function consoleColor(
   msg,
   color__ = "white",
   bgColor__ = "black",
