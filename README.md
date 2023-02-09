@@ -2,7 +2,7 @@
 
 Deixe seus console logs mais coloridos!
 
-**Instalação**
+## Instalação
 
 ```json
 //settings.json
@@ -13,7 +13,7 @@ Deixe seus console logs mais coloridos!
 }
 ```
 
-**Utilização**
+## Utilização
 
 ```js
 const ConsoleColors = require("console-colors");
@@ -27,15 +27,42 @@ console.color(
   (icon = undefined), // Ícone no Início
   (style = undefined) // Estilo do texto
 );
+```
 
+## Exemplos
+
+### Mensagem Inteira
+
+```js
 //Ex. 1 (Texto Preto, Fundo Branco e Ícone azul)
 console.color("Mensagem", "black", "white", "blue");
-
 //Ex. 2 (Texto Amarelo, Fundo Preto e Ícone Amarelo, Mais Claro)
 console.color("Mensagem", "yellow", "black", "yellow", "bright");
 ```
 
-![img](https://github.com/gugacarbo/react-simple-snap/blob/master/WhatsApp%20Image%202023-02-09%20at%2020.39.35.jpeg?raw=true)
+![img](https://github.com/gugacarbo/console-colors/blob/master/readme/messageEx1_Ex2.jpeg?raw=true)
+
+### Parte da Mensagem
+
+```js
+// [c:cor]
+// [bg:fundo]
+// [s:estilo]
+// [i:icone]
+
+//Ex. 3 (Texto Preto/Fundo verde; Texto Verde/Fundo Branco )
+console.color("Primeira Parte [c:green][bg:white] Segunda Parte", "black", "green");
+//Ex. 4 (Texto Preto/Fundo Roxo, Sublinhado, X Vermelho, Texto Ciano fundo cinza)
+console.color(
+  "Primeira Parte [c:cyan][bg:gray] [i:error] Segunda Parte",
+  "black",
+  "purple",
+  null,
+  "underline"
+);
+```
+
+![img](https://github.com/gugacarbo/console-colors/blob/master/readme/messageEx3_Ex4.jpeg?raw=true)
 
 **Cores**
 
