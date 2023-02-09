@@ -1,0 +1,22 @@
+{
+  "name": "console-colors",
+  "version": "1.0.0",
+  "description": "Deixe seus console logs mais coloridos!",
+  "main": "index.js",
+  "repository": "https://github.com/gugacarbo/console-colors.git",
+  "author": "gugacarbo <guga_carbo@hotmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "js",
+    "node",
+    "react",
+    "console",
+    "console.log",
+    "console-log",
+    "console-color",
+    "color",
+    "colors",
+    "prettier",
+    "colorful"
+  ]
+}
