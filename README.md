@@ -3,21 +3,15 @@
 Deixe seus console logs mais coloridos!
 
 ## Instalação
-
-```json
-//settings.json
-{
-  "dependencies": {
-    "vibrant-console": "git+https://github.com/gugacarbo/vibrant-consolegit"
-  }
-}
+```bash 
+yarn add vibrant-console
 ```
 
 ## Uso
 
 ```js
-const ConsoleColors = require("vibrant-console;
-ConsoleColors();
+const vibrantConsole = require("vibrant-console");
+vibrantConsole();
 //add global.console.color()
 
 console.color(
