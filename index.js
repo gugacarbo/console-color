@@ -1,5 +1,12 @@
-module.exports = () => (global.console.color = consoleColor);
+module.exports = () => {
+  global.console.color = consoleColor;
+  global.console.error = consoleError;
 
+};
+
+function consoleError(msg) {
+  console.color(msg, "red", "white", "error", "bright");
+}
 function consoleColor(
   msg,
   color__ = "white",
