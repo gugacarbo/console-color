@@ -1,4 +1,4 @@
-# console-colors
+# console-color
 
 Deixe seus console logs mais coloridos!
 
@@ -8,15 +8,15 @@ Deixe seus console logs mais coloridos!
 //settings.json
 {
   "dependencies": {
-    "console-colors": "git+https://github.com/gugacarbo/console-colors.git"
+    "console-color": "git+https://github.com/gugacarbo/console-colorgit"
   }
 }
 ```
 
-## Utilização
+## Uso
 
 ```js
-const ConsoleColors = require("console-colors");
+const ConsoleColors = require("console-color;
 ConsoleColors();
 //add global.console.color()
 
@@ -40,7 +40,7 @@ console.color("Mensagem", "black", "white", "blue");
 console.color("Mensagem", "yellow", "black", "yellow", "bright");
 ```
 
-![img](https://github.com/gugacarbo/console-colors/blob/master/readme/messageEx1_Ex2.jpeg?raw=true)
+![img](https://github.com/gugacarbo/console-colorblob/master/readme/messageEx1_Ex2.jpeg?raw=true)
 
 ### Parte da Mensagem
 
@@ -62,7 +62,7 @@ console.color(
 );
 ```
 
-![img](https://github.com/gugacarbo/console-colors/blob/master/readme/messageEx3_Ex4.jpeg?raw=true)
+![img](https://github.com/gugacarbo/console-colorblob/master/readme/messageEx3_Ex4.jpeg?raw=true)
 
 **Cores**
 
