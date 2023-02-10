@@ -34,7 +34,7 @@ console.color("Mensagem", "black", "white", "blue");
 console.color("Mensagem", "yellow", "black", "yellow", "bright");
 ```
 
-![img](https://github.com/gugacarbo/vibrant-consoleblob/master/readme/messageEx1_Ex2.jpeg?raw=true)
+![img](https://github.com/gugacarbo/vibrant-console/blob/master/readme/messageEx1_Ex2.jpeg?raw=true)
 
 ### Parte da Mensagem
 
@@ -56,7 +56,7 @@ console.color(
 );
 ```
 
-![img](https://github.com/gugacarbo/vibrant-consoleblob/master/readme/messageEx3_Ex4.jpeg?raw=true)
+![img](https://github.com/gugacarbo/vibrant-console/blob/master/readme/messageEx3_Ex4.jpeg?raw=true)
 
 **Cores**
 
