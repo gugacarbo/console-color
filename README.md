@@ -1,4 +1,4 @@
-# colored_console
+# vibrant-console
 
 Deixe seus console logs mais coloridos!
 
@@ -8,7 +8,7 @@ Deixe seus console logs mais coloridos!
 //settings.json
 {
   "dependencies": {
-    "colored_console": "git+https://github.com/gugacarbo/colored_consolegit"
+    "vibrant-console": "git+https://github.com/gugacarbo/vibrant-consolegit"
   }
 }
 ```
@@ -16,7 +16,7 @@ Deixe seus console logs mais coloridos!
 ## Uso
 
 ```js
-const ConsoleColors = require("colored_console;
+const ConsoleColors = require("vibrant-console;
 ConsoleColors();
 //add global.console.color()
 
@@ -40,7 +40,7 @@ console.color("Mensagem", "black", "white", "blue");
 console.color("Mensagem", "yellow", "black", "yellow", "bright");
 ```
 
-![img](https://github.com/gugacarbo/colored_consoleblob/master/readme/messageEx1_Ex2.jpeg?raw=true)
+![img](https://github.com/gugacarbo/vibrant-consoleblob/master/readme/messageEx1_Ex2.jpeg?raw=true)
 
 ### Parte da Mensagem
 
@@ -62,7 +62,7 @@ console.color(
 );
 ```
 
-![img](https://github.com/gugacarbo/colored_consoleblob/master/readme/messageEx3_Ex4.jpeg?raw=true)
+![img](https://github.com/gugacarbo/vibrant-consoleblob/master/readme/messageEx3_Ex4.jpeg?raw=true)
 
 **Cores**
 
