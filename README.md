@@ -53,7 +53,7 @@ console.color(
 );
 ```
 
-![img](https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex1.png)
+![img](https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex1.png?raw=true)
 
 ```js
 //Ex. 2
