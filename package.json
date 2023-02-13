@@ -1,6 +1,6 @@
 {
   "name": "vibrant-console",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Deixe seus console logs mais coloridos!",
   "main": "index.js",
   "repository": "https://github.com/gugacarbo/vibrant-console.git",
