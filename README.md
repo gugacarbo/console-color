@@ -53,7 +53,7 @@ console.color(
 );
 ```
 
-<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex3.png?raw=true" width="100%" />
+<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex1.png?raw=true" width="100%" />
 
 ```js
 //Ex. 2
