@@ -53,7 +53,7 @@ console.color(
 );
 ```
 
-<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex1.png?raw=true" width="60%" />
+<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex3.png?raw=true" height="50" />
 
 ```js
 //Ex. 2
@@ -66,7 +66,7 @@ console.color(
 );
 ```
 
-<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex2.png?raw=true" width="60%" />
+<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex2.png?raw=true" height="50" />
 
 ```js
 //Ex. 3
@@ -75,14 +75,14 @@ console.color(
 );
 ```
 
-<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex3.png?raw=true" width="60%" />
+<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex3.png?raw=true" height="50" />
 
 ```js
 //Ex. 4
 console.color("Texto vermelho com fundo azul,[s:inverse] e aqui invertido");
 ```
 
-<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex4.png?raw=true" width="60%" />
+<img src="https://github.com/gugacarbo/vibrant-console/blob/master/readme/ex4.png?raw=true" height="50" />
 
 **Cores**
 
